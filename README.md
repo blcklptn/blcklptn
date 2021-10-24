@@ -1,7 +1,5 @@
 ### Hi there, I'm Daniil - aka [th3end0f3v4ng3l10n][website] 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=th3end0f3v4ng3l10n&show_icons=true&theme=cobalt)
-
 ## I'm a Developer, and Mentor!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -28,6 +26,10 @@
 
 <br />
 <br />
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=th3end0f3v4ng3l10n&show_icons=true&theme=cobalt)
 
 
 [website]: https://t.me/namespacess
