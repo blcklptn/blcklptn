@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://t.me/namespacess" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/person.svg" />]
+[<img align="left" alt="t.me/namespacess" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/person.svg" />]
 
 <br />
 
