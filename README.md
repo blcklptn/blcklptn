@@ -1,5 +1,5 @@
 ### Hi there, I'm Daniil - aka [th3end0f3v4ng3l10n][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![alt text](https://github.com/th3end0f3v4ng3l10n/th3end0f3v4ng3l10n/blob/main/Untitled.png?raw=true)
+![alt text](https://github.com/th3end0f3v4ng3l10n/th3end0f3v4ng3l10n/blob/main/author.png?raw=true)
 
 ## I'm a Developer, and Mentor!!
 
