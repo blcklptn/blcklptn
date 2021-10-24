@@ -1,4 +1,5 @@
 ### Hi there, I'm Daniil - aka [th3end0f3v4ng3l10n][website] 👋
+![alt text](https://github.com/th3end0f3v4ng3l10n/th3end0f3v4ng3l10n/blob/main/Untitled.png?raw=true)
 
 ## I'm a Developer, and Mentor!!
 
